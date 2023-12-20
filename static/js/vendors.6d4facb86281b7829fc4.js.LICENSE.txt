@@ -1,0 +1,54 @@
+/*!
+  * shared v9.8.0
+  * (c) 2023 kazuya kawaguchi
+  * Released under the MIT License.
+  */
+
+/*!
+  * vue-i18n v9.8.0
+  * (c) 2023 kazuya kawaguchi
+  * Released under the MIT License.
+  */
+
+/*!
+  * vue-router v4.2.5
+  * (c) 2023 Eduardo San Martin Morote
+  * @license MIT
+  */
+
+/*!
+ * ApexCharts v3.44.2
+ * (c) 2018-2023 ApexCharts
+ * Released under the MIT License.
+ */
+
+/*! #__NO_SIDE_EFFECTS__ */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/*! svg.draggable.js - v2.2.2 - 2019-01-08
+* https://github.com/svgdotjs/svg.draggable.js
+* Copyright (c) 2019 Wout Fierens; Licensed MIT */
+
+/*! svg.filter.js - v2.0.2 - 2016-02-24
+* https://github.com/wout/svg.filter.js
+* Copyright (c) 2016 Wout Fierens; Licensed MIT */
+
+/**
+          * @ag-grid-community/all-modules - Advanced Data Grid / Data Table supporting Javascript / Typescript / React / Angular / Vue * @version v30.2.1
+          * @link https://www.ag-grid.com/
+          * @license MIT
+          */
+
+/**
+  * vee-validate v4.12.2
+  * (c) 2023 Abdelrahman Awad
+  * @license MIT
+  */
+
+/**
+ * @ag-grid-community/core - Advanced Data Grid / Data Table supporting Javascript / Typescript / React / Angular / Vue
+ * @version v30.2.1
+ * @link https://www.ag-grid.com/
+ * @license MIT
+ */
